@@ -4,4 +4,5 @@
 - My pronouns are she/her
 
 [Link](https://p4trvcja.github.io/) to my github page
+
 A Neural Algorithm of Artistic Style - link to the [Article](https://paperswithcode.com/paper/a-neural-algorithm-of-artistic-style) and [fork](https://github.com/p4trvcja/neural-style)
