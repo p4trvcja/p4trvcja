@@ -1,7 +1,5 @@
 ### Hi there :raised_hand:
-- I'm a Computer Science and Intelligent Systems student at AGH UST
-- I'm currently learning Java
+- I'm a second-year student of Computer Science and Intelligent Systems at AGH UST
+- I'm currently learning Java, C# and Machine Learning in Python
 - My pronouns are she/her
-
-[Link](https://p4trvcja.github.io/) to my github page
-
+- How to reach me: patrycjaxpotoczek@gmail.com
